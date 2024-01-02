@@ -3,6 +3,7 @@ Hi, I'm Mocpy. I'm programming in Python. I'm using Arch Linux with KDE plasma.
 
 # My openPGP key
 Whoever has my email address can send me an encrypted message using this key or validate my email signatures.
+Key fingerprint: 91E2 2EF6 491C 4504 38C7 86EC D5F4 D762 34E6 5A6D
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
