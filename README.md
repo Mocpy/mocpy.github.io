@@ -2,7 +2,7 @@
 Hi, I'm Mocpy. I'm programming in Python. I'm using Arch Linux with KDE plasma.
 
 # Contact
-I'm on [Gitub](https://github.com).  
+I'm on [Github](https://github.com).  
 My email addres mocpy at seznam.cz
 
 # My openPGP key
