@@ -9,6 +9,9 @@ author = "Mocpy"
 siteHeading = "Mocpy" # defaults to author
 # favicon = "hugo_grotius.png" # The small icon shown in browser tabs
 showTaxonomyLinks = false  # Show e.g. a "Category" button at top of blog page
+footer = """\
+  This work is licensed under CC BY-NC-SA 4.0.
+  """
 
 # You can choose to display a summary of your blog on the home page. Below are
 # the settings relevant for that.
