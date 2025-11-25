@@ -71,6 +71,10 @@ jobs:
             hugo-
       - name: Build the site
         run: |
+          cd $GITHUB_WORKSPACE
+          hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/" --cacheDir "${{ runner.temp }}/hugo_cache"
+      - name: Build the site
+        run: |
           hugo \
             --gc \
             --minify \
