@@ -2,6 +2,7 @@
 {
     font-family: FreeSans;
     src: url(../fonts/FreeSans-small.woff);
+    font-display: swap;
 }
 
 @font-face 
@@ -10,6 +11,7 @@
     src: url(../fonts/FreeSansBoldOblique.woff);
     font-weight: bold;
     font-style: oblique;
+    font-display: swap;
 }
 
 @font-face 
@@ -17,6 +19,7 @@
     font-family: FreeSans;
     src: url(../fonts/FreeSansBold-small.woff);
     font-weight: bold;
+    font-display: swap;
 }
 
 @font-face 
@@ -24,12 +27,14 @@
     font-family: FreeSans;
     src: url(../fonts/FreeSansOblique.woff);
     font-style: oblique;
+    font-display: swap;
 }
 
 @font-face 
 {
     font-family: FreeSerif;
     src: url(../fonts/FreeSerif-small.woff);
+    font-display: swap;
 }
 
 @font-face 
@@ -37,6 +42,7 @@
     font-family: FreeSerif;
     src: url(../fonts/FreeSerifItalic-small.woff);
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face 
@@ -45,6 +51,7 @@
     src: url(../fonts/FreeSerifBoldItalic-small.woff);
     font-style: italic;
     font-weight: bold;
+    font-display: swap;
 }
 
 @font-face 
@@ -52,12 +59,14 @@
     font-family: FreeSerif;
     src: url(../fonts/FreeSerifBold-small.woff);
     font-weight: bold;
+    font-display: swap;
 }
 
 @font-face 
 {
     font-family: Mononoki;
     src: url(../fonts/mononoki-Regular.woff2);
+    font-display: swap;
 }
 
 /* Copied from Font Awesome and modified for filepath and filetype*/
