@@ -23,6 +23,7 @@ nBlogLatest = 4  # Number of blog post in summary
 github = "Mocpy"
 email = "mocpy@seznam.cz"
 rss = "yes"  # Value doesn't matter - it will always link to your blog RSS
+files = ""
 
 [taxonomies]
 year = "year"

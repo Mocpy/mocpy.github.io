@@ -516,3 +516,11 @@ orcid:
   title: ORCID
   icon:
     class: fas fa-orcid fa-fw
+
+# 066: Files
+files:
+  weight: 66
+  url: "https://files.mocpy.cz"
+  title: Files
+  icon:
+    class: fas fa-folder fa-fw
