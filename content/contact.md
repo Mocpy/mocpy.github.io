@@ -9,6 +9,8 @@ menu:
 
 {{< contact-box >}}
 
+My email address is **mocpy@seznam.cz**.
+
 If you want to send me encrypted email or validate email signature, use this.
 
 Key fingerprint: **096F 77F5 52E6 4706 6679 6E89 6B75 3003 A8BC 8E09**
