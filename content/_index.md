@@ -9,4 +9,4 @@ menu:
 
 {{<image float="right" width="11em" frame="true" src="img/20230522_073006.jpg" >}}
 
-Hi, I'm Mocpy. I'm programming in Python and C#. I'm using Arch Linux with KDE plasma.
+Hi, I'm Mocpy. I program in Python and C#, use Arch Linux with KDE Plasma, and I'm interested in investing.
