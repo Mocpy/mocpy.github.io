@@ -24,6 +24,7 @@ github = "Mocpy"
 email = "marek.pastyrik@mocpy.cz"
 rss = "yes"  # Value doesn't matter - it will always link to your blog RSS
 files = ""
+linkedin = "marek-pastyrik"
 
 [taxonomies]
 year = "year"
