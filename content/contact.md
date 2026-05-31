@@ -9,23 +9,30 @@ menu:
 
 {{< contact-box >}}
 
-My email address is **mocpy@seznam.cz**.
+**Primary Email:** marek.pastyrik@mocpy.cz\
+**Dev Email:** mocpy@mocpy.cz
 
-If you want to send me encrypted email or validate email signature, use this.
+If you want to send me an encrypted email to either of my addresses or validate my digital signature, you can use my single PGP key below.
 
-Key fingerprint: **096F 77F5 52E6 4706 6679 6E89 6B75 3003 A8BC 8E09**
+Key fingerprint: **AE38 EE2A 9C7B DC36 D026 4893 7D40 EE67 8C61 966A**
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-xjMEZWHFIBYJKwYBBAHaRw8BAQdAE2ePentZlVB6MM8VC1CYuveDduzFRCrjQoWe
-69O9Ui3NF01vY3B5IDxtb2NweUBzZXpuYW0uY3o+wo8EExYIADcWIQQJb3f1UuZH
-BmZ5bolrdTADqLyOCQUCZWHFIAUJBaOagAIbAwQLCQgHBRUICQoLBRYCAwEAAAoJ
-EGt1MAOovI4JI6MBANj4cLYrbgHe211jT/WjcohT6SGnSyg1mEQPyx2ZHD2CAP9c
-tlsFDUT//Bn6ZAe4f0zF8BdJrIfKAmsq0vjzRZOwDs44BGVhxSESCisGAQQBl1UB
-BQEBB0AvSXd1vILT5m9vPbzZV4YNMsK5nnZRP0YghPFJ7CpGPgMBCAfCfgQYFggA
-JhYhBAlvd/VS5kcGZnluiWt1MAOovI4JBQJlYcUhBQkFo5qAAhsMAAoJEGt1MAOo
-vI4J850A/05+pHTuGJD/vRG+T74CviByHCFSOqEEt9QYL3vtguHaAP9YWQ0Btyyn
-14vlaWBupWBlmZxT2fTLXYiyQ1S/UpjDCw==
-=4JgX
+xjMEahxqexYJKwYBBAHaRw8BAQdAu5BlU/ejwin/HZsm8tSUY05vzTuxHnOILj+a
+w75+JzHNKk1hcmVrIFBhc3R5xZnDrWsgPG1hcmVrLnBhc3R5cmlrQG1vY3B5LmN6
+PsKPBBMWCAA3FiEErjjuKpx73DbQJkiTfUDuZ4xhlmoFAmocansFCQWjmoACGwME
+CwkIBwUVCAkKCwUWAgMBAAAKCRB9QO5njGGWaj5nAQDf/Otya71jrPumwvrbUjf2
+TF8oHc4Gx2JoNU5xNhhbVAEAzL8Ec1DOpp26fPpRe++e5OjXs7CF2H1H1MC06FRR
+MADNFk1vY3B5IDxtb2NweUBtb2NweS5jej7ClgQTFgoAPhYhBK447iqce9w20CZI
+k31A7meMYZZqBQJqHG5tAhsDBQkFo5qABQsJCAcCBhUKCQgLAgQWAgMBAh4BAheA
+AAoJEH1A7meMYZZqnRoA/06Bw6XsiTS3RS1jmu5iKtYcvIHw8D8JQnq8WTW0oXVX
+AQDtIbd183BWd0mZNm6Q0EKNvsyQboq7qDPZ8XBRCUHgDc44BGocansSCisGAQQB
+l1UBBQEBB0C3kcTZtRtRyu3elMkb6uWyD0q0avNaLhZT9gFBNoFSHgMBCAfCfgQY
+FggAJhYhBK447iqce9w20CZIk31A7meMYZZqBQJqHGp7BQkFo5qAAhsMAAoJEH1A
+7meMYZZqELgA/io3RxXwOXWSOLJmSSTZ1YY8oE+MCaKP28Yo3YDmT80IAQD94KVJ
+VSiN23KIH5GD9/EejeOwCJH7m9U6l+pHkVZZBg==
+=E5lD
 -----END PGP PUBLIC KEY BLOCK-----
+
 ```

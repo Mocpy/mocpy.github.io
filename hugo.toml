@@ -5,9 +5,9 @@ theme = "notrack"
 pagination.pagerSize = 4  # Posts per page, e.g. in the blog
 
 [params]
-author = "Mocpy"
-description = "Welcome to my personal website. A space where I share my thoughts, projects, and things I'm passionate about. Thanks for stopping by!"
-siteHeading = "Mocpy" # defaults to author
+author = "Marek Pastyřík"
+description = "Personal website of Marek Pastyřík. Gymnasium student, IT & Linux enthusiast, and retail investor."
+siteHeading = "Marek Pastyřík"
 # favicon = "hugo_grotius.png" # The small icon shown in browser tabs
 showTaxonomyLinks = false  # Show e.g. a "Category" button at top of blog page
 footer = """This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>"""
@@ -21,7 +21,7 @@ nBlogLatest = 4  # Number of blog post in summary
 
 [params.social]
 github = "Mocpy"
-email = "mocpy@seznam.cz"
+email = "marek.pastyrik@mocpy.cz"
 rss = "yes"  # Value doesn't matter - it will always link to your blog RSS
 files = ""
 
@@ -37,3 +37,8 @@ categories = "categories"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
