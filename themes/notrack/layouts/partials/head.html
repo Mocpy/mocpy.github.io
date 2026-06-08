@@ -1,6 +1,5 @@
-
 <head>
-    <title>{{ .Site.Title }} {{ with .Title }}- {{ . }} {{ end }}</title>
+    <title>{{ if .IsHome }}Marek Pastyřík (Mocpy){{ else }}Marek Pastyřík (Mocpy) - {{ .Title }}{{ end }}</title>
     <link rel="stylesheet" type="text/css" href="{{ "css/fonts.css" | relURL }}">
     <link rel="stylesheet" type="text/css" href="{{ "css/fontawesome.css" | relURL }}">
     {{ $options := dict "transpiler" "libsass" "targetPath" "css/styles.css" }}
@@ -19,4 +18,21 @@
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
     <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta property="og:title" content="{{ if .IsHome }}Marek Pastyřík (Mocpy){{ else }}Marek Pastyřík (Mocpy) - {{ .Title }}{{ end }}">
+    <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Marek Pastyřík",
+        "url": "https://mocpy.cz",
+        "sameAs": [
+            "https://github.com/Mocpy",
+            "https://www.linkedin.com/in/marek-pastyrik"
+        ]
+    }
+    </script>
 </head>
