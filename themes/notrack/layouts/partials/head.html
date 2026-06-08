@@ -13,6 +13,7 @@
     {{ end }}
     <meta charset="UTF-8">
     <meta name="author" content="{{ .Site.Params.Author }}">
+    <meta name="seznam-wmt" content="v6lW00IHcct5ZAxBVUEVUqrPeqAr1A6R" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
