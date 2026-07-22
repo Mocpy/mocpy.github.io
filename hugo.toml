@@ -8,7 +8,7 @@ pagination.pagerSize = 4  # Posts per page, e.g. in the blog
 author = "Marek Pastyřík"
 description = "Personal website of Marek Pastyřík. Gymnasium student, IT & Linux enthusiast, and retail investor."
 siteHeading = "Marek Pastyřík"
-# favicon = "/logo.png" # The small icon shown in browser tabs
+favicon = "logo.png" # The small icon shown in browser tabs
 showTaxonomyLinks = false  # Show e.g. a "Category" button at top of blog page
 footer = """This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>"""
 
