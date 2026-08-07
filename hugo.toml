@@ -10,7 +10,7 @@ description = "Personal website of Marek Pastyřík. Gymnasium student, IT & Lin
 siteHeading = "Marek Pastyřík"
 favicon = "logo.png" # The small icon shown in browser tabs
 showTaxonomyLinks = false  # Show e.g. a "Category" button at top of blog page
-footer = """This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>"""
+footer = """All site content licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>"""
 
 # You can choose to display a summary of your blog on the home page. Below are
 # the settings relevant for that.
